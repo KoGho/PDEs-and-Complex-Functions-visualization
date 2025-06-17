@@ -1,0 +1,1 @@
+I made these functions to visualize what I was studying, mainly for an exam on advanced mathematical analysis for engineers. There are functions on distributions, complex functions, partial differential equations, fourier transforms, laplace transforms and maybie fourier series. I post them here because maybie they could be useful to somebody.
